@@ -1,4 +1,4 @@
-# Pair-Programing-Modulo4- Visualización de Datos en Tableau
+# Visualización de Datos en Tableau
 
 ## INDICE
 1. [Introducción](#1-introducción)
@@ -7,7 +7,7 @@
 4. [Preguntas frecuentes](#4-preguntas-frecuentes)
 5. [Aportaciones](#5-aportaciones)
 
-# 1. INTRODUCCION 📊
+# 1. 📊 INTRODUCCION 
 
 ¡Bienvenidos al proyecto de Pair Programming enfocado en Visualización de Datos en Tableau!
 
@@ -15,7 +15,7 @@ Durante esta serie de sesiones, hemos trabajado explorando y visualizando un dat
 
 Nuestro objetivo es aplicar conocimientos aprendidos en Tableau para crear visualizaciones interactivas y dashboards informativos.
 
-# 2.	DATASET Y OBJETIVOS 🎼
+# 2. 🎼 DATASET Y OBJETIVOS 
 
 Hemos seleccionado un dataset que contiene información sobre música, con las siguientes columnas principales:
 
@@ -32,7 +32,7 @@ Hemos seleccionado un dataset que contiene información sobre música, con las s
 
 Objetivo: Utilizar este dataset para crear visualizaciones impactantes en Tableau que revelen patrones, tendencias y relaciones interesantes sobre la música y sus características en diferentes plataformas.
 
-Enlace al Dataset: Music Dataset
+Enlace al Dataset: Music Dataset LINK A TABLEAU PUBLI ---------
 
 El pair programming se estructura en varias fases, que incluyen:
 - Análisis Exploratorio de Datos (EDA)
@@ -40,9 +40,9 @@ El pair programming se estructura en varias fases, que incluyen:
 - Elaboración de graficos y Dashboard
 
 Dentro del repositorio encontrarás ----- carpetas con diferentes documentos, las cuales son:
-- 
 
-# 3.	TECNOLOGÍAS UTILIZADAS 💻
+
+# 3. 💻 TECNOLOGÍAS UTILIZADAS 
 
 Durante este Pair Programming, se han empleado las siguientes tecnologías:
 
@@ -50,16 +50,17 @@ Durante este Pair Programming, se han empleado las siguientes tecnologías:
 - Tableau Public: Para la creación de visualizaciones interactivas y dashboards.
 - Control de Versiones en GitHub: Para colaborar y gestionar el código y recursos.
 
-# 4.	PREGUNTAS FRECUENTES ❓
+# 4. ❓ PREGUNTAS FRECUENTES 
 
--	¿Qué tipo de visualizaciones crearemos en Tableau?: Utilizaremos una variedad de gráficos como barras, líneas, mapas y scatter plots para explorar datos musicales.
+- ¿Qué tipo de visualizaciones crearemos en Tableau?: Utilizaremos una variedad de gráficos como barras, líneas, mapas y scatter plots para explorar datos musicales.
 - ¿Cómo seleccionaremos las paletas de colores y diseño?: Elegiremos paletas de colores apropiadas y un diseño limpio para mejorar la legibilidad y el impacto visual de nuestras visualizaciones.
 - ¿Cómo abordaremos la interactividad en Tableau?: Implementaremos filtros y acciones interactivas para permitir a los usuarios explorar los datos de manera dinámica.
 
-# 5.	APORTACIONES ⭐
+# 5. ⭐ APORTACIONES 
 
 Valoramos todas las ideas y sugerencias para mejorar nuestras visualizaciones y análisis. Si tienes alguna propuesta o comentario que pueda enriquecer nuestro proyecto de Tableau, ¡no dudes en compartirlo!
 
 ¡Te invitamos a explorar y disfrutar este viaje de análisis visual de datos en Tableau!
+
 
 Creado por: [Beatriz Sánchez](https://github.com/BSReguera) y [Laura Génesis](https://github.com/LauraGenesis).
