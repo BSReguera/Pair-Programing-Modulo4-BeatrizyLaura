@@ -1,16 +1,5 @@
 ## DOCUMENTACIÓN
 
-#### Estudio de canciones más populares años 90-actualidad
-Tenemos un dataset con las columnas ['trackname', 'artist(s)name', 'country', 'artistcount', 'releasedyear',
-       'releasedmonth', 'releasedday', 'inspotifyplaylists', 'inspotifycharts',
-       'streams', 'inappleplaylists', 'inapplecharts', 'indeezerplaylists',
-       'indeezercharts', 'inshazamcharts', 'bpm', 'danceability', 'valence',
-       'energy', 'acousticness', 'instrumentalness', 'liveness',
-       'speechiness'].
-- Nuestro objetivo es ver la popularidad de las canciones que salieron entre los años 90 hasta la actualidad de los artistas por paises.
-- Además, mediante los bpm, relacionados con los diferentes estilos musicales 
-## VER SI BORRAR LO ANTERIOR 
-
 Estudio de Canciones Populares desde los años 90 hasta la Actualidad.
 
 Para nuestro análisis, utilizaremos un dataset que incluye las siguientes columnas:
@@ -73,7 +62,3 @@ Visualizar ---------------------------------------
 
 
 El objetivo principal es explorar y visualizar datos para comprender mejor la evolución de la música popular desde los años 90 hasta la actualidad, utilizando diferentes métricas y características musicales.
-
-
-
-

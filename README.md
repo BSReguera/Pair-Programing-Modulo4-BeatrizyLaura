@@ -37,14 +37,16 @@ Enlace al Dataset: Music Dataset LINK A TABLEAU PUBLI ---------
 
 # 3. 📄 DOCUMENTACIÓN 
 
-Hemos
-
 El pair programming se estructura en varias fases, que incluyen:
+
 - Análisis Exploratorio de Datos (EDA)
 - Transformación de los Datos
 - Elaboración de graficos y Dashboard
 
 Dentro del repositorio encontrarás ----- carpetas con diferentes documentos, las cuales son:
+-
+-
+-
 
 
 # 4. 💻 TECNOLOGÍAS UTILIZADAS 
