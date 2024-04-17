@@ -31,7 +31,13 @@ Hemos seleccionado un dataset que contiene información sobre la música, con la
 - inshazamcharts: Datos relacionados con Shazam.
 - Variables musicales como bpm, danceability, valence, energy, acousticness, instrumentalness, liveness, speechiness.
 
-Objetivo: Utilizar este dataset para crear visualizaciones impactantes en Tableau que revelen patrones, tendencias y relaciones interesantes sobre la música y sus características en diferentes plataformas.
+Objetivo principal del proyecto: Utilizar este dataset para crear visualizaciones en Tableau que revelen patrones, tendencias y relaciones interesantes sobre la música y sus características en diferentes plataformas.
+
+Objetivos específicos:
+- Análisis musical: Explorar patrones en las características de audio para comprender tendencias y preferencias en canciones populares.
+- Comparación de plataformas: Comparar la popularidad de la canción en diferentes plataformas musicales.
+- Impacto del artista: Analizar cómo la participación y atributos del artista se relacionan con el éxito de una canción.
+- Tendencias temporales: Identificar cambios en las características musicales y preferencias a lo largo del tiempo.
 
 Enlace del Music Dataset: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
 
@@ -54,7 +60,7 @@ Dentro del repositorio encontrarás los diferentes documentos utilizados, las cu
 Durante este Pair Programming, se han empleado las siguientes tecnologías:
 
 - Python: Para el análisis de datos, manipulación y visualización.
-- Tableau Public: Para la creación de visualizaciones interactivas y dashboards. Facilitamos el Link de acceso al proyecto: LINKKKKKKKKKK
+- Tableau Public: Para la creación de visualizaciones interactivas y dashboards. Facilitamos el Link de acceso al proyecto: https://public.tableau.com/app/profile/beatriz.s.nchez.reguera/viz/MusicGlobal-Tableau/Dashboard3?publish=yes
 - Control de Versiones en GitHub: Para colaborar y gestionar el código y recursos.
 
 # 5. ❓ PREGUNTAS FRECUENTES 
