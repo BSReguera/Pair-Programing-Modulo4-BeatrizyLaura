@@ -12,13 +12,13 @@
 
 ¡Bienvenidos al proyecto de Pair Programming enfocado en Visualización de Datos en Tableau!
 
-Durante esta serie de sesiones, hemos trabajado explorando y visualizando un dataset seleccionado relacionado con la música.
+Durante esta serie de sesiones, hemos trabajado explorando y visualizando un dataset seleccionado, relacionado con la música.
 
-Nuestro objetivo es aplicar conocimientos aprendidos en Tableau para crear visualizaciones interactivas y dashboards informativos.
+Nuestro objetivo es aplicar los conocimientos aprendidos en Tableau para crear visualizaciones interactivas y dashboards informativos.
 
 # 2. 🎼 DATASET Y OBJETIVOS 
 
-Hemos seleccionado un dataset que contiene información sobre música, con las siguientes columnas principales:
+Hemos seleccionado un dataset que contiene información sobre la música, con las siguientes columnas principales:
 
 - trackname: Nombre de la pista.
 - artist(s)name: Nombre del artista o artistas.
@@ -33,7 +33,7 @@ Hemos seleccionado un dataset que contiene información sobre música, con las s
 
 Objetivo: Utilizar este dataset para crear visualizaciones impactantes en Tableau que revelen patrones, tendencias y relaciones interesantes sobre la música y sus características en diferentes plataformas.
 
-Enlace al Dataset: Music Dataset LINK A TABLEAU PUBLI ---------
+Enlace del Music Dataset: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
 
 # 3. 📄 DOCUMENTACIÓN 
 
@@ -41,12 +41,12 @@ El pair programming se estructura en varias fases, que incluyen:
 
 - Análisis Exploratorio de Datos (EDA)
 - Transformación de los Datos
-- Elaboración de graficos y Dashboard
+- Elaboración de gráficos y dashboard
 
-Dentro del repositorio encontrarás ----- carpetas con diferentes documentos, las cuales son:
--
--
--
+Dentro del repositorio encontrarás los diferentes documentos utilizados, las cuales son:
+- Archivos csv: prueba, prueba 0, spotify-2023, total_charts, total_playlists.
+- Documentación
+- Limpieza
 
 
 # 4. 💻 TECNOLOGÍAS UTILIZADAS 
@@ -59,7 +59,7 @@ Durante este Pair Programming, se han empleado las siguientes tecnologías:
 
 # 5. ❓ PREGUNTAS FRECUENTES 
 
-- ¿Qué tipo de visualizaciones crearemos en Tableau?: Utilizaremos una variedad de gráficos como barras, líneas, mapas y scatter plots para explorar datos musicales.
+- ¿Qué tipo de visualizaciones crearemos en Tableau?: Utilizaremos una variedad de gráficos como barras, líneas, mapas, entre otros para explorar datos musicales.
 - ¿Cómo seleccionaremos las paletas de colores y diseño?: Elegiremos paletas de colores apropiadas y un diseño limpio para mejorar la legibilidad y el impacto visual de nuestras visualizaciones.
 - ¿Cómo abordaremos la interactividad en Tableau?: Implementaremos filtros y acciones interactivas para permitir a los usuarios explorar los datos de manera dinámica.
 
