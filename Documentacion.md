@@ -23,7 +23,7 @@ Objetivos Específicos:
 - 1. Análisis de popularidad por año y país:
 Determinar la popularidad de las canciones lanzadas desde los años 90 hasta la actualidad.
 Analizar la popularidad de artistas por país de origen.
-- 2. Comparar los atributos y carateristicas de las canciones más visualizadas de los ultimos años.
+- 2. Comparar los atributos y caraterísticas de las canciones más visualizadas de los últimos años.
 Observar la relación entre BPM (beats per minute/ pulsos por minutos) y Géneros Musicales (pop, electro, baladas etc...):
 - 3. Observar la popularidad y características de los 10 artistas con una mayor popularidad (streams).
 
@@ -31,7 +31,7 @@ Observar la relación entre BPM (beats per minute/ pulsos por minutos) y Género
 Interpretaciones de los Dashbords y Gráficos:
 
 Dashboard 1:
-El primer dashboard ofrece una visión general de la diversidad geográfica de los artistas musicales Countries(41), Artists(645), Songs(943), destacando una concentración significativa en Estados Unidos(38,4%), seguido por el Reino Unido(11,1%) y Canadá(7,7%). Esto revela la prominencia de estos países en la escena musical global. Además, identifica claramente los artistas más populares según las visualizaciones, mostrando el dominio de figuras como The Weekend, Taylor Swift y Ed Sheeran. Los filtros para buscar artistas o canciones permiten una exploración más detallada y personalizada de la base de datos.
+El primer dashboard ofrece una visión general de la diversidad geográfica de los artistas musicales con 41 paises, 645 artistas, 943 canciones, destacando una concentración significativa en Estados Unidos(38,4%), seguido por el Reino Unido(11,1%) y Canadá(7,7%). Esto revela la prominencia de estos países en la escena musical global. Además, identifica claramente los artistas más populares según las visualizaciones, mostrando el dominio de figuras como The Weekend, Taylor Swift y Ed Sheeran. Los filtros para buscar artistas o canciones permiten una exploración más detallada y personalizada de la base de datos.
 
 Dashboard 2:
 El segundo dashboard revela la influencia de las plataformas de transmisión musical en la popularidad de las canciones, con Spotify, Deezer y Apple Music emergiendo como las aplicaciones más utilizadas por los oyentes. Asimismo, las clasificaciones de las canciones por género basadas en el ritmo (bpm) proporcionan información valiosa sobre las preferencias musicales actuales. Esta tendencia ascendente en la industria musical, impulsada por la tecnología, muestra cómo las nuevas plataformas están dando forma al consumo de música.

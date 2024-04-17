@@ -54,7 +54,7 @@ Dentro del repositorio encontrarás los diferentes documentos utilizados, las cu
 Durante este Pair Programming, se han empleado las siguientes tecnologías:
 
 - Python: Para el análisis de datos, manipulación y visualización.
-- Tableau Public: Para la creación de visualizaciones interactivas y dashboards.      LINKKKKKKKKK
+- Tableau Public: Para la creación de visualizaciones interactivas y dashboards. Facilitamos el Link de acceso al proyecto: LINKKKKKKKKKK
 - Control de Versiones en GitHub: Para colaborar y gestionar el código y recursos.
 
 # 5. ❓ PREGUNTAS FRECUENTES 
